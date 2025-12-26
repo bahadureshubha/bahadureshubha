@@ -18,6 +18,7 @@ I am a **Business Analyst and Software Tester** with experience working on **POS
 🚀 Actively building analytics projects to transition into a data analyst role
 
 
+
 **🧰 Skills & Tools**
 
 **-Analytics & BI:** Excel, Power BI
@@ -29,10 +30,12 @@ I am a **Business Analyst and Software Tester** with experience working on **POS
 **-Quality & Validation:** Functional testing, edge-case validation, UAT support
 
 
+
 **📌 Projects**
 
 **🔹 Sales Analytics (Excel Project)**
 Built an Excel-based analytics solution to analyze sales trends, performance metrics, and business insights using formulas, pivot tables, and dashboards.
+
 
 
 **🌱 Currently Learning**
@@ -46,9 +49,11 @@ Built an Excel-based analytics solution to analyze sales trends, performance met
 -Python for data cleaning and analysis
 
 
+
 **🎯 Career Goal**
 
 To combine my business understanding, product experience, and analytical skills to deliver meaningful insights as a Data Analyst.
+
 
 
 **📫 Connect with Me**
