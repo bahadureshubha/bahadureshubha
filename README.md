@@ -4,7 +4,7 @@ I am a Business Analyst and Software Tester with experience working on POS-based
 <!--
 **bahadureshubha/bahadureshubha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-👨‍💻## About Me
+##👨‍💻About Me
 
 💼 Currently working as a Business Analyst & Software Tester
 
@@ -19,7 +19,7 @@ I am a Business Analyst and Software Tester with experience working on POS-based
 🚀 Actively building analytics projects to transition into a data analyst role
 
 
-🧰 ##Skills & Tools
+##🧰 Skills & Tools
 
 Analytics & BI: Excel, Power BI
 
@@ -29,7 +29,7 @@ Business Analysis: Workflow analysis, requirement gathering, acceptance criteria
 
 Quality & Validation: Functional testing, edge-case validation, UAT support
 
-📌 ##Projects
+##📌 Projects
 
 🔹 Sales Analytics (Excel Project)
 Built an Excel-based analytics solution to analyze sales trends, performance metrics, and business insights using formulas, pivot tables, and dashboards
@@ -37,7 +37,7 @@ Built an Excel-based analytics solution to analyze sales trends, performance met
 🔹 Sales & Finance Dashboard (Power BI)
 Developed an executive-level Power BI dashboard analyzing net sales, margins, forecast accuracy, and supply chain risks, with a strong focus on storytelling and decision support
 
-🌱 ##Currently Learning
+##🌱 Currently Learning
 
 Advanced Excel for analytics
 
@@ -47,11 +47,11 @@ SQL for data analysis
 
 Python for data cleaning and analysis
 
-🎯 ##Career Goal
+##🎯 Career Goal
 
 To combine my business understanding, product experience, and analytical skills to deliver meaningful insights as a Data Analyst.
 
-📫 ##Connect with Me
+##📫 Connect with Me
 
 💼 LinkedIn: (https://www.linkedin.com/in/shubha-bahadure/)
 
