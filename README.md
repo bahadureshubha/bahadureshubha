@@ -1,8 +1,6 @@
 ## Hi, I’m Shubha Bahadure 👋
 I am a Business Analyst and Software Tester with experience working on POS-based applications and system integrations. I am transitioning into a Data Analyst role by building analytics projects and developing skills in Excel, Power BI, SQL, and Python to deliver data-driven insights.
 
-<!--
-**bahadureshubha/bahadureshubha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ##👨‍💻About Me
 
@@ -58,3 +56,6 @@ To combine my business understanding, product experience, and analytical skills 
 📧 Email: bahadureshubha@gmail.com
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and projects.
+
+<!--
+**bahadureshubha/bahadureshubha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
