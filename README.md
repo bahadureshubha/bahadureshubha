@@ -34,9 +34,6 @@ I am a **Business Analyst and Software Tester** with experience working on **POS
 **🔹 Sales Analytics (Excel Project)**
 Built an Excel-based analytics solution to analyze sales trends, performance metrics, and business insights using formulas, pivot tables, and dashboards.
 
-**🔹 Sales & Finance Dashboard (Power BI)**
-Developed an executive-level Power BI dashboard analyzing net sales, margins, forecast accuracy, and supply chain risks, with a strong focus on storytelling and decision support.
-
 
 **🌱 Currently Learning**
 
